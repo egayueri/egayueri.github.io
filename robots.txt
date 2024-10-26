@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://egayueri.github.io/sitemap_index.egayueri
